@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>kaleem khan portfolio</title>
+</head>
+<body>
+    <header>
+      <h1><b>KALEEM AKHTER KHAN</b></h1>
+      <img src="kaleem.jpg" alt="kaleem khan image" HEIGHT="100PX" width="70px" >
+    </header>
+    <hr>
+    <ol Type="1">
+        <section>
+                <h2>EDUCATION</h2>
+                <ul>
+                    <li>high school</li>
+                    <li>intermediat</li>
+                    <li>B Tech</li>
+                </ul>
+        </section>
+        <hr>
+        <section>
+          <h2>SKILLS</h2> 
+            <ul>
+                <li>web development </li>
+                <li>java </li>
+                <li>c++ programming language </li>
+            </UL>
+        </section>
+        <hr>
+        <footer>
+          <h2>CONTACT</h2> 
+            <ul>
+                <li>E-Mail - kingkhanmim077@gmail.com</li>
+                <li>phone number - 9336700826</li>
+            </ul>
+        </footer>
+    </ol>
+</body>
+</html>
